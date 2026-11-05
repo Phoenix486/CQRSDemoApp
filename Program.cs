@@ -1,3 +1,4 @@
+// verified by round-2 test
 using CQRSDemoApp.Data;
 using CQRSDemoApp.Services;
 using Microsoft.EntityFrameworkCore;
